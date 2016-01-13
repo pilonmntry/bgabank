@@ -1,2 +1,2 @@
-# bgasucks
-This is an internal bga project containing hidden values
+# bgabank
+This is an internal bgabank project containing hidden values
